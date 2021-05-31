@@ -1,0 +1,134 @@
+html{
+    background-color: #5e626d;
+    background-image: url(imgs/backmoney3.jpg);
+    background-repeat: repeat;
+    background-size: 100%;
+    background-position: 84%;
+    position: relative;
+    top: 243px;
+}
+
+#popup{
+    font-size: large;
+    color: rgba(179, 24, 24, 0.822);
+}
+
+#btn-corrigir{
+    background-color: #5e626d;
+}
+
+iframe{
+    position: absolute;
+    top: -158px;
+}
+
+.modal-content {
+    top: -94px !important;
+ }
+
+ #ModalWhats{
+     top: auto;
+     font-size: x-large;
+     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ }
+
+footer {
+    position: fixed;
+    bottom:0;
+    left:0;
+    width: -webkit-fill-available;
+}
+
+#Certificado {
+    width: 103px;
+    height: 37px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto 
+}
+
+
+
+.bg-info{
+   /* background-color: #010b26!important; */
+   background-color: #5e626d!important;
+   background-size: cover;
+  /*background-image: url("imgs/teste.jpg");*/
+   background-repeat: no-repeat;
+   background-position: center;
+   height: 0px;
+}
+
+#Enviar{  
+    background-color: rgb(3, 21, 102);
+    position: relative;
+    /* left: 392px; */
+    /* top: 234px; */
+    padding: 0.5rem 1.5rem;
+    font-size: 1.25rem;
+    line-height: 1.5;
+    border-radius: -0.2rem;
+}
+
+body{
+    background-color: #000a25;
+}
+
+#acertou{
+    position: absolute;
+    display: none;
+}
+
+body{margin:40px;}
+
+.btn-circle.btn-lg {
+  width: 50px;
+  height: 50px;
+  padding: 10px 10px;
+  font-size: 20px;
+  line-height: 1.33;
+  border-radius: 25px;
+  text-decoration-style: solid;
+  position: absolute;
+}
+
+#azul{
+    left: 10%;
+    bottom: 3%;
+}
+#amare{
+    left: 22%;
+    bottom: 3%;
+}
+#red{
+    left: 34%;
+    bottom: 3%;
+}
+
+#btn-sair{
+    background-color: red;
+    color: white;
+}
+
+#btn-sair-con{
+    background-color: rgb(59, 174, 219);
+    color: white;
+}
+
+#btn-dica{
+    background-color: rgb(112, 4, 4);
+    color: white;
+}
+
+#btn-ajuda{
+    background-color: rgb(112, 4, 4);
+    color: white;
+}
+
+.modal-fade{
+    min-height: 100px;
+}
+
+.modal-title{
+    position: absolute;
+}
